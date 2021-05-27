@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biancacristinaalves
 - 👀 I’m interested in aprendizagem
-- 🌱 I’m currently learning  JavaScript
+- 🌱 I’m currently learning  estudando na Laboratória
 - 💞️ I’m looking to collaborate on  novos projetos
 - 📫 How to reach me ...
 
