@@ -1,4 +1,7 @@
 ## Olá! Eu sou a Bianca Alves 
+* 👩‍💻 Estou em transição de carreira!
+* 📚 Atualmente estudando no Bootcamp da Laboratória!
+
  <div>
   <a href="https://github.com/biancacristinaalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancacristinaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
