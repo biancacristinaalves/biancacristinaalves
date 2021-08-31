@@ -1,10 +1,10 @@
 ## Olá! Seja muito Bem Vindo(a). || Hello, Welcome!
-* ✅ Me chamo Bianca Cristina Alves e sou formada em Arquitetura e Urbanismo!,
- 🌍 My name is Bianca Cristina Alves and I graduated in Architecture and Urbanism!
-* 👩‍💻 Neste momento Estou em transição de carreira!
- 🌍 Right now I'm in career transition!
-* 📚 Atualmente estudando no Bootcamp da Laboratória Brasil!
- 🌍 Currently studying at the Bootcamp at Laboratorio Brasil!
+* ✅ Me chamo Bianca Cristina Alves e sou formada em Arquitetura e Urbanismo! || 
+My name is Bianca Cristina Alves and I graduated in Architecture and Urbanism!
+* 👩‍💻 Neste momento Estou em transição de carreira! || 
+Right now I'm in career transition!
+* 📚 Atualmente estudando no Bootcamp da Laboratória Brasil! || 
+Currently studying at the Bootcamp at Laboratorio Brasil!
 
  <div>
   <a href="https://github.com/biancacristinaalves">
