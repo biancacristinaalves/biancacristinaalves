@@ -7,7 +7,7 @@ PT:
 EN:
 * ✅ My name is Bianca Cristina Alves and I graduated in Architecture and Urbanism!
 * 👩‍💻 Right now I'm transitioning my career to the IT area, Front-End development!
-* 📚 Currently studying at the Bootcamp at Laboratorio Brasil!
+* 📚 Currently studying at the Bootcamp at Laboratória Brasil!
 
 
  <div>
