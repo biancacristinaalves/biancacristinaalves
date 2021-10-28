@@ -1,8 +1,6 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Olá! Seja muito Bem Vindo(a). || Hello, Welcome!
 
 ### ✍🏻 PT:
-#### Sobre:
-
 ✅ Tenho 28 anos e moro na cidade de São Caetano do sul - SP. <br>
 👩‍💻 Sou formada em Arquitetura e Urbanismo, mas neste momento estou em transição de carreira para a área de tecnologia e desenvolvimento front-end, onde tenho interesse em aprender novos processos e linguagens.<br>
 👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e me comunicar com os clientes, buscando sempre a melhor forma de atendê-los.<br>
@@ -10,8 +8,6 @@ No meu temo livre eu gosto de estar com a minha família, passear com os meus am
 📚 Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais.
 
 ### ✍🏻 EN:
-#### About:
-
 ✅ I am 28 years old and live in the city of São Caetano do sul - SP.<br>
 👩‍💻 I have a degree in Architecture and Urbanism, but at the moment I am transitioning my career to the area of technology and front-end development, where I am interested in learning new processes and languages.<br>
 👜 All my professional experience was in the administrative area, where I learned to organize myself, plan, work as a team and communicate with clients, always looking for the best way to serve them.<br>
@@ -35,7 +31,6 @@ Graduated from the 6th Generation of Bootcamp at <Laboratory Brazil>, where I le
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-
 </div>
   
   ##
