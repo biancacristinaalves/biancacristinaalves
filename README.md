@@ -2,18 +2,18 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="90">
 
 ### ✍🏻 PT:
-✅ Tenho 28 anos e moro na cidade de São Caetano do sul - SP. <br>
-👩‍💻 Sou formada em Arquitetura e Urbanismo, mas neste momento estou em transição de carreira para a área de tecnologia e desenvolvimento front-end, onde tenho interesse em aprender novos processos e linguagens.<br>
-👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e me comunicar com os clientes, buscando sempre a melhor forma de atendê-los.<br>
-No meu temo livre eu gosto de estar com a minha família, passear com os meus amigos e aproveitar o dia da melhor forma possível.<br>
+✅ Sou formada em Arquitetura e Urbanismo e estou em transição de carreira para a área Tech.<br>
+👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e me comunicar.<br>
 📚 Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais.
+✍🏻 No momento aprendendo sobre JavaScript, Css, React e Node.js<br>
+💡 Interesse em Front-End, Back-End e Web Design, sempre buscando novas linguagens e curiosidads sobre o mundo Tech.
 
 ### ✍🏻 EN:
-✅ I am 28 years old and live in the city of São Caetano do sul - SP.<br>
-👩‍💻 I have a degree in Architecture and Urbanism, but at the moment I am transitioning my career to the area of technology and front-end development, where I am interested in learning new processes and languages.<br>
-👜 All my professional experience was in the administrative area, where I learned to organize myself, plan, work as a team and communicate with clients, always looking for the best way to serve them.<br>
-📚 In my free time I like to be with my family, walk with my friends and enjoy the day in the best possible way.<br>
-Graduated from the 6th Generation of Bootcamp at <Laboratory Brazil>, where I learned about Agile Methodology, Programming Logic and Socio-Emotional Skills.
+✅ I have a degree in Architecture and Urbanism and I am transitioning my career to the Tech area.<br>
+👜 All my professional experience was in the administrative area, where I learned to organize myself, plan, work as a team and communicate.<br>
+📚 Graduated 6th Generation Bootcamp at <Laboratory Brazil>, where I learned about Agile Methodology, Programming Logic and Socio-Emotional Skills.
+✍🏻 Currently learning about JavaScript, CSS, React and Node.js<br>
+💡 Interest in Front-End, Back-End and Web Design, always looking for new languages and curiosities about the Tech world.
 
  <div align="center">
   <a href="https://github.com/biancacristinaalves">
