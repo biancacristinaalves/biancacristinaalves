@@ -1,4 +1,5 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Olá! Seja muito Bem Vindo(a). || Hello, Welcome!
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="90">
 
 ### ✍🏻 PT:
 ✅ Tenho 28 anos e moro na cidade de São Caetano do sul - SP. <br>
@@ -31,8 +32,8 @@ Graduated from the 6th Generation of Bootcamp at <Laboratory Brazil>, where I le
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-</div>
-  
+</div> 
+
   ##
  
 <div align="center"> 
@@ -41,8 +42,6 @@ Graduated from the 6th Generation of Bootcamp at <Laboratory Brazil>, where I le
   <a href="https://www.instagram.com/biavizentim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/biavizentim" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/biancacristinaalves" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-
-
 
   ![Snake animation](https://github.com/biancacristinaalves/biancacristinaalves/blob/output/github-contribution-grid-snake.svg)
  
