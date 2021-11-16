@@ -1,5 +1,4 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Olá! Seja muito Bem Vindo(a). || Hello, Welcome!
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="90">
 
 ✅ Sou formada em Arquitetura e Urbanismo e estou em transição de carreira para a área Tech.<br>
 👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e me comunicar.<br>
