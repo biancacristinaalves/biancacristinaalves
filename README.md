@@ -1,19 +1,11 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Olá! Seja muito Bem Vindo(a). || Hello, Welcome!
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="90">
 
-### ✍🏻 PT:
 ✅ Sou formada em Arquitetura e Urbanismo e estou em transição de carreira para a área Tech.<br>
 👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e me comunicar.<br>
 📚 Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais.
 ✍🏻 No momento aprendendo sobre JavaScript, Css, React e Node.js<br>
 💡 Interesse em Front-End, Back-End e Web Design, sempre buscando novas linguagens e curiosidads sobre o mundo Tech.
-
-### ✍🏻 EN:
-✅ I have a degree in Architecture and Urbanism and I am transitioning my career to the Tech area.<br>
-👜 All my professional experience was in the administrative area, where I learned to organize myself, plan, work as a team and communicate.<br>
-📚 Graduated 6th Generation Bootcamp at <Laboratory Brazil>, where I learned about Agile Methodology, Programming Logic and Socio-Emotional Skills.
-✍🏻 Currently learning about JavaScript, CSS, React and Node.js<br>
-💡 Interest in Front-End, Back-End and Web Design, always looking for new languages and curiosities about the Tech world.
 
  <div align="center">
   <a href="https://github.com/biancacristinaalves">
@@ -29,8 +21,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="PostegreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
