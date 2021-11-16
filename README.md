@@ -1,10 +1,10 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Olá! Seja muito Bem Vindo(a). || Hello, Welcome!
 
 ✅ Sou formada em Arquitetura e Urbanismo e estou em transição de carreira para a área Tech.<br>
-👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e me comunicar.<br>
+👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e a me comunicar.<br>
 📚 Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais.
-✍🏻 No momento aprendendo sobre JavaScript, Css, React e Node.js<br>
-💡 Interesse em Front-End, Back-End e Web Design, sempre buscando novas linguagens e curiosidads sobre o mundo Tech.
+✍🏻 No momento aprendendo sobre JavaScript, Css, React<br>
+💡 Interesse em Front-End, Back-End, Full Stack e Web Design, sempre buscando novas linguagens e curiosidads sobre o mundo Tech.
 
  <div align="center">
   <a href="https://github.com/biancacristinaalves">
