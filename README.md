@@ -3,8 +3,8 @@
 ✅ Sou formada em Arquitetura e Urbanismo e estou em transição de carreira para a área Tech.<br>
 👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e a me comunicar.<br>
 📚 Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais.<br>
-✍🏻 No momento aprendendo sobre JavaScript, Css, React<br>
-💡 Interesse em Front-End, Back-End, Full Stack e Web Design, sempre buscando novas linguagens e curiosidads sobre o mundo Tech.
+✍🏻 No momento aprendendo sobre <b>HTML, CSS, JavaScript,, ReactJS e NodeJS</b><br>
+💡 Interesse em Front-End, Back-End, Full Stack e Web Design, sempre buscando novas linguagens e curiosidades sobre o mundo Tech.
 
  <div align="center">
   <a href="https://github.com/biancacristinaalves">
