@@ -3,8 +3,7 @@
 ✅ Sou formada em Arquitetura e Urbanismo e estou em transição de carreira para a área Tech.<br>
 👜 Toda a minha experiência profissional foi na área administrativa, onde aprendi a me organizar, planejar, trabalhar em equipe e a me comunicar.<br>
 📚 Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais.<br>
-✍🏻 No momento aprendendo sobre <b>HTML, CSS, JavaScript,, ReactJS e NodeJS</b><br>
-💡 Interesse em Front-End, Back-End, Full Stack e Web Design, sempre buscando novas linguagens e curiosidades sobre o mundo Tech.
+✍🏻 Interesses em Front-End, QA e Web Design e no momento aprendendo sobre <b>SCSS, JavaScript, Angular e Testes unitários</b><br>
 
  <div align="center">
   <a href="https://github.com/biancacristinaalves">
@@ -13,7 +12,9 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
@@ -22,7 +23,6 @@
   <img align="center" alt="VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="center" alt="Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
   <img align="center" alt="Notion" height="40" width="40" src="https://ik.imagekit.io/llneva6qvex/unnamed-removebg-preview__1__iPIv_JO89nrw.png?updatedAt=1635447249570"> 
 </div> 
 
