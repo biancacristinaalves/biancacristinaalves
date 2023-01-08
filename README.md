@@ -1,8 +1,13 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Olá! Seja muito Bem Vindo(a). || Hello, Welcome!
 
-🎓 Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais.<br>
-✍🏻 Interesse em Front-End, QA e Web Design e no momento aprendendo sobre <b>SCSS, JavaScript, Angular e Testes unitários.</b><br>
-💡 Amo viajar, assistir filmes e me aventurar nos games.
+🎓 PT - Formada em Arquitetura e Urbanismo, resolvi, em 2021, migrar para Front-End através da 6º turma da <Laboratória Brasil>.<br>
+🎓 EN - Graduated in Architecture and Urbanism, I decided, in 2021, to migrate to Front-End through the 6th class of <Laboratória Brazil>.<br>
+
+✍🏻 PT - Interesse em Front-End e Web Design, no momento aprendendo sobre: <b>SCSS, JavaScript, Angular e Testes unitários.</b><br>
+✍🏻 EN - Interested in Front-End and Web Design, currently learning about: <b>SCSS, JavaScript, Angular and Unit Testing.</b><br>
+
+💡 PT - Amo viajar, assistir filmes e me aventurar nos games.<br>
+💡 EN - I love traveling, watching movies and playing games.<br>
 
 
 <div style="display: inline_block" align="center"><br>
