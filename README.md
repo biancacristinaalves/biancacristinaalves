@@ -1,13 +1,15 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Olá! Seja muito Bem Vindo(a). || Hello, Welcome!
 
-🎓 PT - Formada em Arquitetura e Urbanismo, resolvi, em 2021, migrar para Front-End através da 6º turma da <Laboratória Brasil>.<br>
-🎓 EN - Graduated in Architecture and Urbanism, I decided, in 2021, to migrate to Front-End through the 6th class of <Laboratória Brazil>.<br>
+📍Sydney.
 
-✍🏻 PT - Interesse em Front-End e Web Design, no momento aprendendo sobre: <b>SCSS, JavaScript, Angular e Testes unitários.</b><br>
+🎓 EN - In 2021, I made the decision to transition to Front-End development, driven by the desire to explore new technologies and expand my programming skills.<br>
+🎓 PT - Em 2021, tomei a decisão de migrar para o desenvolvimento Front-End,motivado pelo desejo de explorar novas tecnologias e expandir minhas habilidades em programação. .<br>
+
 ✍🏻 EN - Interested in Front-End and Web Design, currently learning about: <b>SCSS, JavaScript, Angular and Unit Testing.</b><br>
+✍🏻 PT - Interesse em Front-End e Web Design, no momento aprendendo sobre: <b>SCSS, JavaScript, Angular e Testes unitários.</b><br>
 
-💡 PT - Amo viajar, assistir filmes e me aventurar nos games.<br>
 💡 EN - I love traveling, watching movies and playing games.<br>
+💡 PT - Amo viajar, assistir filmes e me aventurar nos games.<br>
 
 
 <div style="display: inline_block" align="center"><br>
