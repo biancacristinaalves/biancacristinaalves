@@ -1,11 +1,11 @@
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Hi there! I'm Bianca.
+Hi there! I'm Bianca.
 <br>
-💻 Web Developer | Passionate about Technology and Front-end Development
+💻 Front-End Developer | Passionate about Technology & Creating Intuitive Web Experiences
 
-I'm a developer focused on creating interactive and functional web solutions. I have experience with modern technologies such as HTML5, CSS3, JavaScript, Angular, and other frameworks. I'm always learning and looking for ways to improve my skills and contribute to innovative projects.
+As a Front-End Developer, I focus on building responsive, interactive, and user-friendly web solutions. With hands-on experience using modern technologies such as HTML5, CSS3, JavaScript, and Angular, I strive to create seamless user experiences that combine functionality with design aesthetics.
 
 <div>
-  💡 Skills:<br>
+  🔧 Skills & Technologies:<br>
   .Languages: HTML5, CSS, SASS, JavaScript<br>
   .Frameworks: Angular, React, Bootstrap<br>
   .Tools: Git, VS Code, Figma<br>
@@ -14,21 +14,21 @@ I'm a developer focused on creating interactive and functional web solutions. I 
 <br>
 <div>
   🚀 What I'm currently working on:<br>
-  .Deepening my knowledge of Web Development.<br>
-  .Working on open-source projects.<br>
-  .Learning more about UI/UX Design and web accessibility.
+  .Deepening my expertise in Web Development and learning new front-end technologies.<br>
+  .Contributing to open-source projects and collaborating with developers worldwide.<br>
+  .Enhancing my knowledge of UI/UX Design and improving web accessibility.
 </div>
 <br>
 <div>
-  🌱 Interests:<br>
-  .Improving web application performance.<br>
-  .Exploring new front-end development technologies.<br>
-  .Contributing to open-source projects.
+  🌱 My goals & interests:<br>
+  .Improving web application performance and ensuring optimal user experiences.<br>
+  .Exploring cutting-edge front-end technologies to stay ahead in the ever-evolving web development landscape.<br>
+  .Contributing to open-source projects and fostering the growth of the developer community.
 </div>
 <br>
 
 <div>
-📫 How to reach me:
+  Let’s connect and build something amazing together! 🚀
 <div>
   <a href="mailto:bcacefo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bianca-cristina-alves1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
